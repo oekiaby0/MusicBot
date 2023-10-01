@@ -32,10 +32,5 @@
             <artifactId>JDA</artifactId>
             <version>4.4.0_350</version>
         </dependency>
-        <dependency>
-            <groupId>org.jsoup</groupId>
-            <artifactId>jsoup</artifactId>
-            <version>1.15.1</version>
-        </dependency>
     </dependencies>
 </project>
