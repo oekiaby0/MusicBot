@@ -27,7 +27,7 @@ Before you can run the MusicBot, you'll need the following:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/MusicBot.git
+   git clone https://github.com/oekiaby0/MusicBot.git
    ```
 
 2. Navigate to the project directory:
